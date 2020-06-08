@@ -8,7 +8,7 @@ namespace EscapeFromGod
         {
             if(CGameWorld.IsPlaying && Settings.CSpeedHack.bSpeedHack)
             {
-                CPlayer.LocalPlayer.MovementContext.SpeedHack = Settings.CSpeedHack.speedMultipler;
+                //Secret Speedhack Methos
             }
         }
     }
